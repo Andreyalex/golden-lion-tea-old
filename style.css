@@ -1,0 +1,162 @@
+body {
+    font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+    font-size: 11pt; /* Размер основного шрифта в пунктах  */
+    background-color: limegreen; /* Цвет фона веб-страницы */
+    color: #ffff00; /* Цвет основного текста */
+}
+
+h1 {
+
+    color: #a52a2a; /* Цвет заголовка */
+    font-size: 45pt; /* Размер шрифта в пунктах */
+    font-family: Georgia, Times, serif; /* Семейство шрифтов */
+    font-weight: normal; /* Нормальное начертание текста  */
+    margin-left: 342px; /* Отступ слева в пикселах */
+    margin-right: 334px; /* Отступ справа в пикселах */
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+#text1 {
+    padding-top: 1px;
+}
+
+.logo1 {
+    float: left;
+
+}
+
+.pict1 {
+    float: right;
+    padding-right: 30px;
+    padding-top: 27px;
+    width: 100px;
+    height: 100px;
+}
+
+#b {
+    padding-top: 31px;
+
+
+}
+
+.logo2 {
+    float: right;
+    padding-top: 44px;
+}
+
+.pict2 {
+    float: left;
+    margin-top: 73px;
+    margin-left: -130px;
+    width: 100px;
+    height: 100px;
+}
+
+#text2 {
+    margin: auto;
+    padding-top: 36px;
+}
+
+#logo3 {
+    padding-top: 50px;
+}
+
+.logo3 {
+    float: left;
+}
+
+.pict3 {
+    float: right;
+    padding-right: 30px;
+    padding-top: 27px;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+.par1 {
+
+    text-align: justify;
+    border: 2px solid black;
+    margin-left: 205px;
+    margin-right: 10px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    width: 860px;
+
+
+}
+
+.par2 {
+    text-align: justify;
+    border: 2px solid black;
+    margin-top: 35px;
+    margin-bottom: 0px;
+    margin-left: 165px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    width: 860px;
+
+
+}
+
+.par3 {
+    text-align: justify;
+    border: 2px solid black;
+    margin-left: 205px;
+    margin-right: 10px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    width: 860px;
+}
+
+#tb {
+    clear: none;
+    margin-top: 30px;
+
+}
+
+.tb{
+    margin-left: 360px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #a52a2a; /* Цвет заголовка */
+    font-size: 40pt; /* Размер шрифта в пунктах */
+    font-family: Georgia, Times, serif; /* Семейство шрифтов */
+    font-weight: normal; /* Нормальное начертание текста  */
+}
+
+.tb2 {
+    margin-left: 431px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #a52a2a; /* Цвет заголовка */
+    font-size: 20pt; /* Размер шрифта в пунктах */
+    font-family: Georgia, Times, serif; /* Семейство шрифтов */
+    font-weight: normal; /* Нормальное начертание текста  */
+}
+
+#poc {
+
+}
+.poc {
+    margin-left: 300px;
+
+}
+
+.poc2 {
+    margin-left: 390px;
+
+}

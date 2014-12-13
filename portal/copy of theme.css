@@ -1,0 +1,78 @@
+* {
+    font-family: "Arial";
+}
+
+#logo {
+    float: left;
+    overflow: hidden;
+}
+
+#name {
+
+    clear: both;
+    text-align: center;
+    font-size: 40px;
+}
+/* Social buttons */
+
+#socials {
+    float: right;
+    overflow: hidden;
+}
+
+#socials .item {
+    float: left;
+    margin:5px;
+    background: url("/portal/img/sociocons.png") no-repeat 0 0;
+    width: 45px;
+    height: 45px;
+}
+
+#socials .item.fb {
+    background: url("/portal/img/sociocons.png") no-repeat 0 0;
+}
+
+#socials .item.tw {
+    background: url("/portal/img/sociocons.png") no-repeat -49px 0;
+}
+
+#socials .item.gg {
+    background: url("/portal/img/sociocons.png") no-repeat -103px 0;
+}
+
+/* Menu */
+
+#menu {
+    clear: both;
+    overflow: hidden;
+}
+
+#menu .item {
+    float: left;
+    margin:10px;
+}
+
+#menu .search {
+    float: left;
+    margin:10px;
+}
+
+#menu .item a {
+    text-decoration: none;
+    color: #55ff55;
+    text-shadow: 4px 4px 2px #ffffff;
+    font-size: 20px;
+}
+
+#menu .item.tea {
+    background: url("/portal/img/14-512.png") no-repeat 0px 0;
+    width: 75px;
+    height: 95px;
+    line-height: 95px;
+    text-align: center;
+}
+/* RMenu */
+
+#RMenu {
+
+}
