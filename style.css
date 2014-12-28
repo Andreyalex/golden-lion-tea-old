@@ -23,7 +23,8 @@ h1 {
 
 .logo1 {
     float: left;
-
+    height: 120px;
+    width: 150px;
 }
 
 .pict1 {
@@ -43,6 +44,8 @@ h1 {
 .logo2 {
     float: right;
     padding-top: 44px;
+    height: 120px;
+    width: 150px;
 }
 
 .pict2 {
@@ -64,6 +67,8 @@ h1 {
 
 .logo3 {
     float: left;
+    height: 120px;
+    width: 150px;
 }
 
 .pict3 {

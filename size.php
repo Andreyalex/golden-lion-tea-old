@@ -15,7 +15,7 @@
 <div>
 
     <div id="logo1">
-     <img class="logo1" src="/portal/img/logo.jpg">
+     <img class="logo1" src="/portal/img/lion2.jpg">
      <img class="pict1" src="/portal/img/19830825.jpg">
     </div>
 
@@ -36,7 +36,7 @@
 
     <div id="logo2">
         <img class="pict2" src="/portal/img/153.jpg">
-        <img class="logo2" src="/portal/img/logo.jpg">
+        <img class="logo2" src="/portal/img/lion2.jpg">
 
     </div>
 
@@ -55,7 +55,7 @@
 
 <div>
     <div id="logo3">
-        <img class="logo3" src="/portal/img/logo.jpg">
+        <img class="logo3" src="/portal/img/lion2.jpg">
         <img class="pict3" src="/portal/img/images.jpg">
     </div>
 
