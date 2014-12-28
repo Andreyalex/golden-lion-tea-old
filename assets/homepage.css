@@ -1,0 +1,192 @@
+* {
+    font-family: "Arial";
+}
+
+body {
+    background: url("img/fon2.jpg") no-repeat;
+    background-size: 100%
+}
+
+#divider {
+    position: absolute;
+    top: 320px;
+    left: 0;
+    width: 100%;
+}
+
+#divider .smooth {
+    height: 200px;
+    background-image: -webkit-gradient(
+        linear, left bottom, left top, from(rgba(255,255,255,1)),
+        to(rgba(255,255,255,0))
+    );
+}
+
+#divider .item {
+    height: 500px;
+    background: #fff;
+}
+
+#reg {
+    margin-top: 5px;
+}
+
+#reg .btn-default{
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 26px;
+}
+
+#pane {
+    position: relative;
+}
+
+#logo {
+    float: right;
+    overflow: hidden;
+    margin-top: 65px;
+    margin-right: 60px;
+}
+
+#logo .flaticon {
+    background-color: #333;
+    border-radius: 65px;
+    margin: 10px;
+    display: inline-block;
+    width: 130px;
+    height: 130px;
+}
+
+#logo .flaticon:before {
+    font-size: 100px;
+    color: #333;
+    padding-left: 2px;
+}
+
+#logo .flaticon {
+    background-color: #E9AB0C;
+}
+
+#lion {
+    background-color: #E9AB0C;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+#name {
+    clear: both;
+    text-align: center;
+    font-size: 40px;
+}
+
+#title {
+    font-size: 60px;
+    margin-top: 25px;
+}
+
+#slogan {
+    font-size: 24px;
+}
+
+/* Social buttons */
+#socials {
+    float: right;
+    overflow: hidden;
+}
+
+#socials .item {
+    float: left;
+    margin:5px;
+    background: url("/assets/img/sociocons.png") no-repeat 0 0;
+    width: 45px;
+    height: 45px;
+}
+
+#socials .item.fb {
+    background: url("/assets/img/sociocons.png") no-repeat 0 0;
+}
+
+#socials .item.tw {
+    background: url("/assets/img/sociocons.png") no-repeat -49px 0;
+}
+
+#socials .item.gg {
+    background: url("/assets/img/sociocons.png") no-repeat -103px 0;
+}
+
+#equation {
+    margin-top: 110px;
+}
+
+#equation .sign {
+    font-size: 40px;
+    color: #9abc26;
+    line-height: 102px;
+}
+
+#equation .item {
+    float: left;
+    width: 100px;
+    margin: 0 15px;
+}
+
+#equation .item:first-child {
+    margin-left: 145px;
+}
+
+#equation .inner {
+    font-size: 40px;
+    color: #ffffff;
+    background: #269abc;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    line-height: 102px;
+    margin: auto;
+}
+
+#equation .flaticon:before {
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 0;
+}
+
+#equation .item.item-leaf .inner {
+    background: #269a00;
+}
+
+#equation .item.item-cup .inner {
+    background: #943333;
+}
+
+#equation .item.item-heart .inner {
+    background: #EE3333;
+}
+
+#equation .item .flaticon-leaf37:before {
+    font-size: 50px;
+}
+
+#equation .item .flaticon-tea19:before {
+    font-size: 38px;
+    margin-right: -5px;
+}
+
+#equation .item .flaticon-like51:before {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#enter {
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+#enter * {    color: #4cae4c;
+    text-decoration: none;
+}
+
+#enter .flaticon:before {
+    font-size: 26px;
+    font-weight: bold;
+}
