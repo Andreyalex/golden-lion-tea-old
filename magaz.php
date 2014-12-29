@@ -34,9 +34,12 @@
                     <a class="item tw" target="_blank" href="http://twitter.com"></a>
                 </div>
             </div>
-
-            <div class="col-lg-8" >
-
+        </div>
+    </div>
+    <div id="menu-container">
+    <div id="pane" class="container">
+        <div class="row">
+            <div class="col-lg-12" >
                 <nav id="menu" class="navbar navbar-default pull-right">
                     <div class="container-fluid">
                         <!-- Brand and toggle get grouped for better mobile display -->
@@ -82,6 +85,7 @@
                 </nav>
             </div>
         </div>
+    </div>
     </div>
 
     <div id="pane" class="container">
