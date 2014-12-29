@@ -20,6 +20,16 @@ body {
     position: relative;
 }
 
+#pane-left {
+text-align: center;
+}
+
+#search .form-group {
+
+
+}
+
+
 #logo {
 }
 
@@ -74,54 +84,46 @@ body {
     background: url("/assets/img/sociocons.png") no-repeat -103px 0;
 }
 
-#menu {
-    clear: both;
-    overflow: hidden;
-}
 
-#menu .item {
-    float: left;
-    margin:10px;
-}
-
-#menu .search {
-    float: left;
-    margin:10px;
-}
-
-#menu .item a {
-    text-decoration: none;
-    color: #55ff55;
-    text-shadow: 4px 4px 2px #ffffff;
-    font-size: 20px;
-}
-
-#menu .item.tea {
-    background: url("/assets/img/14-512.png") no-repeat;
-    width: 75px;
-    height: 95px;
-    line-height: 95px;
-    text-align: center;
-}
-
-#menu .nav-justified {
-    margin-top: 60px;
-    text-align: center;
-    font-size: 20px;
-}
 
 .article {
+    height: 220px;
+    margin-top: 10px;
     overflow: hidden;
     position: relative;
+    border: double #000000;
+    border-width: 3px 7px 7px 4px;
+
+}
+
+.article.odd {
+
+
+}
+
+
+.baton {
+    float: right;
+    text-align: center;
+    margin-right: 270px;
+}
+
+.baton2 {
+    float: left;
+    text-align: center;
+    margin-left: 330px;
 }
 
 .article .title {
-    float: left;
-    margin-left: 220px;
+
+    margin-left: 480px;
 }
 
 .article.odd .title {
-    margin-left: 0px;
+
+    margin-left: 480px;
+
+
 }
 
 .article .image {
@@ -183,4 +185,16 @@ body {
 
 .widget .image-thumb {
     margin-right: 10px;
+}
+
+#menu {
+    margin-top: 15px;
+    border: none;
+    background: transparent;
+}
+
+#menu .container-fluid,
+#menu .navbar-collapse,
+#menu form {
+    padding-right: 0px;
 }
