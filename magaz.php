@@ -13,21 +13,21 @@
 <body>
     <div id="pane" class="container">
         <div class="row">
-            <div  class="col-lg-4">
+            <div  class="col-xs-4">
                 <div id="logo">
                     <span class="flaticon flaticon-lion5"></span>
                 </div>
                 <!--<a href="/"><img src="/assets/img/logo.jpg"></a>-->
             </div>
 
-            <div class="col-lg-4">
+            <div class="col-xs-4">
                 <div id="reg">
                     <a class="btn btn-lg btn-default" href="/reg.php">Регистрация</a>
                     <!--<a href="/"><img src="/assets/img/logo.jpg"></a>-->
                 </div>
             </div>
 
-            <div class="col-lg-4" >
+            <div class="col-xs-4" >
                 <div id="socials">
                     <a class="item fb" target="_blank" href="http://facebook.com"></a>
                     <a class="item gg" target="_blank" href="http://google.com"></a>
@@ -39,7 +39,7 @@
     <div id="menu-container">
     <div id="pane" class="container">
         <div class="row">
-            <div class="col-lg-12" >
+            <div class="col-xs-12" >
                 <nav id="menu" class="navbar navbar-default pull-right">
                     <div class="container-fluid">
                         <!-- Brand and toggle get grouped for better mobile display -->
